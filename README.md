@@ -31,7 +31,6 @@ While having this in your global css file:
 ```css
 .far {
   font-family: "fa-regular-400";
-  color: red;
 }
 
 .fab {
@@ -58,7 +57,6 @@ Add put the .ttf file next to the fontawesome .ttf files and add this to your cs
 ```css
 .ico {
   font-family: "IcoMoon-Free";
-  color: blue;
 }
 ```
 Now you can do this in your templates:
