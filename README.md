@@ -19,7 +19,7 @@ Then you can do something like this in your templates:
 
 **nativescript:**
 ```
-<label class="fas">{{info | iconmap}}</label>
+<label class="fas">{{"fa-info-circle" | iconmap}}</label>
 ```
 
 **html**
